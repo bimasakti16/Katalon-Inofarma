@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>['2', '1']</initValue>
+      <name>product_barcode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>['2', '1']</initValue>
+      <name>product_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>['2', '1']</initValue>
+      <name>product_harga_beli</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>['2', '1']</initValue>
+      <name>product_margin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>['2', '1']</initValue>
+      <name>product_margin_resep</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>['2', '1']</initValue>
+      <name>product_harga_jual</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>['2', '1']</initValue>
+      <name>product_harga_jual_resep</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>['2', '1']</initValue>
+      <name>product_kemasan_dasar</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>['2', '1']</initValue>
+      <name>product_stok_minimal</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>['2', '1']</initValue>
+      <name>product_stok_awal</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>['2', '1']</initValue>
+      <name>product_tgl_kadaluarsa</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>['2', '1']</initValue>
+      <name>product_no_batch</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>['2', '1']</initValue>
+      <name>product_dosis</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>['2', '1']</initValue>
+      <name>product_satuan</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
